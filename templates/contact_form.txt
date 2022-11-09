@@ -1,0 +1,10 @@
+Name: <span style="color: Red;"><strong> {{ name }} </strong></span>
+<br>
+<br>
+Email: <span><strong> {{ email }} </strong></span>
+<br>
+<br>
+Subject: <span><strong> {{ subject }} </strong></span>
+<br>
+<br>
+Message: <span><strong> {{ message }} </strong></span>
